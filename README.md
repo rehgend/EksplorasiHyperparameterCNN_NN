@@ -1,6 +1,6 @@
 # EksplorasiHyperparameterCNN_NN
 Tugas Eksplorasi Hyperparameter CNN dan NN (Matkul Pembelajaran Mesin Lanjut - S3 STEI ITB)
-Oleh Rahman Indra Kesuma (NIM 33221026)
+<br>Oleh Rahman Indra Kesuma (NIM 33221026)
 
 Pada folder ini terdapat dua fokus ekseplorasi yaitu:
 1. Eksplorasi setting hyperparameter untuk memperoleh model terbaik CNN pada CIFAR10 Dataset;
